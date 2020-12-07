@@ -2,8 +2,12 @@
 
 FIXED FILE_PATH error
 
-LOOM video Link:
+LOOM video Link:(outdated)
 https://www.loom.com/share/188065538e4c474a9362a97f803128db
+
+LOOM video Link:(to date)
+https://www.loom.com/share/54afc3beba744baf91edd427c0d05c0a
+
 
 The screen has been made larger, 1024x 576
 The battleship is bound to the y axis, but is moved by the mouse for smoother control
