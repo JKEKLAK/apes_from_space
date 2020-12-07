@@ -9,7 +9,6 @@ The screen has been made larger, 1024x 576
 The battleship is bound to the y axis, but is moved by the mouse for smoother control
 there is a live count of monkeys hit (score) and bananas fired (bananas)
 the user can pause the game by presseing P and resume by pressing C
-there are no difficulty levels
 the battleship is bound to one axis
 There are 7 unique apes, gorillas monkeys baboons
 There is audio for the banana being fired, a monkey being hit, and gameover screen
