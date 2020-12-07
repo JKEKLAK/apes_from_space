@@ -14,8 +14,6 @@ data_dir = os.path.join(main_dir, 'data')
 #Initilaizing Pygame
 pygame.init()
 
-#YOU MUST UPDATE THIS FILE PATH TO YOUR OWN DIRECTORY WITH THE battleship.png IN IT
-#file_path = 'C:\\Users\\jkekl\\Documents\\PYTHON\\07 pygame\\'
 clock = pygame.time.Clock()
 #programming screen
 screen = pygame.display.set_mode((1024, 576))
