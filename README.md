@@ -19,15 +19,18 @@ There is audio for the banana being fired, a monkey being hit, and gameover scre
 there is a techno background music that pauses when the game is paused
 
 Every 10 points scored the apes will move faster
-Winning screen is trigger at 40 points
+Winning screen is trigger at 60 points
 
 There is a main menu the preceeds the game, not too complex just the name, credits and "click to begin"
 I added 2 different background images, one for main menu and one for game screen.
+After a gameover screen, or a winning screen, player can click to proceed to a score summary screen
+score summary shows: Apes defeated (max60), bananas fired, and misses.
 The game also has its own windows icon of a monkey in a space helmut
 
 list of supporting files
 DeathStar.jpg
 menu_background.jpg
+score_screen.jpg
 
 monkey.png
 gorilla.png
@@ -47,5 +50,7 @@ Gun-laser-sound.wav
 monkey4.wav
 monkeyclip5.wav
 woow_x.wav
+speed_up.wav
+RE2OST_endingTheme.wav
 
 8-BIT WONDER.ttf
